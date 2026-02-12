@@ -1,2 +1,2 @@
-# .github
-Readme
+# Welcome to Okegom Connected!
+Currently a WIP
